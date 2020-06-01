@@ -1,1 +1,3 @@
-# mymodule
+Erisly 
+====
+**__Most Powerfull Discord Library__**
