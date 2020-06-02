@@ -50,5 +50,6 @@ Erisly.VoiceChannel = require("./lib/structures/VoiceChannel");
 Erisly.VoiceConnection = require("./lib/voice/VoiceConnection");
 Erisly.VoiceConnectionManager = require("./lib/voice/VoiceConnectionManager");
 Erisly.VoiceState = require("./lib/structures/VoiceState");
+Erisly.Webhook = require("./lib/structures/Webhook")
 
 module.exports = Erisly;
