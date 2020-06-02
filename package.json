@@ -3,7 +3,7 @@
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
   "name": "hello-express",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple Node app built on Express, instantly up and running.",
   "main": "index.js",
   "engines": {
@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "ws": "^7.3.0",
-    "quick.db": "^7.1.1",
+    "form-data": "^3.0.0",
     "node-fetch": "^2.6.0"
   }
 }
