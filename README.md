@@ -1,3 +1,3 @@
 Erisly 
 ====
-**__Most Powerfull Discord Library__**
+**__Most Powerfull Unoffical Eris Discord Library__**
