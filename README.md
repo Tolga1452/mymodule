@@ -1,3 +1,3 @@
-Erisly 
+discord.xr
 ====
-**__Most Powerfull Unoffical Eris Discord Library__**
+Unofficial discord library. for Node.js **(eris infrastructure was used.)**
