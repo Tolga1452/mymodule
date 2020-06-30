@@ -6,7 +6,7 @@ discord.xr is a powerful [Node.js](https://nodejs.org) [Discord API](https://dis
 ## Installation
 
 **Node.js 12.0.0 or newer is required.**  
-PC or VDS: `npm install discord.xr`
+PC or VDS: `npm install discord.xr` <br>
 Glitch: `pnpm install discord.xr`  
 
 ## Example usage
