@@ -12,7 +12,7 @@ Glitch: `pnpm install discord.xr`
 ## Example usage
 ```js
 const Discord = require('discord.xr');
-const client = new Discord('TOKEN');
+const client = new Discord('TOKEN');
 
 client.on('ready', () => {
 console.log(`Logged in as ${client.user.tag}`)
