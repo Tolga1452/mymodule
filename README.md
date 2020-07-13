@@ -26,6 +26,28 @@ client.on('messageCreate', function(message) {
 client.connect();
 ```
 
+## Database!
+**Database** Made using **Level** and powerfull and fast database!
+
+## Example using for database.
+```js
+const Discord = require('discord.xr');
+const client = new Discord('TOKEN');
+const db = new Discord.Database('datas') //you changeable this *datas*
+
+client.on('ready', () => {
+console.log(`Logged in as ${client.user.tag}`)
+});
+
+client.on('messageCreate', function(message) {
+    if (message.content === 'data'){
+        db.set(`a.b.c`, 'variable')
+        message.channel.send('Data `a.b.c` saved! ' + db.fetch(`a.b.c`))
+    }
+});
+client.connect();
+```
+
 ## Links
 
 - Website: SOON!
